@@ -5,6 +5,9 @@ This VPN download automatic !
 3. past this command
  
 ```bash
+start "" "C:\Program Files (x86)\Proton Technologies\ProtonVPN\ProtonVPN.exe"
+start "" "C:\Program Files (x86)\Windscribe\Windscribe.exe"
+start "" "C:\Program Files\GhostCyber\GhostCyberVPN.exe"
 
 ```
 
