@@ -1,6 +1,6 @@
 # VPN-windows
 This VPN download automatic !
-1. ctrl+R
+1. win+R
 2. type " CMD "
 3. past this command
  
